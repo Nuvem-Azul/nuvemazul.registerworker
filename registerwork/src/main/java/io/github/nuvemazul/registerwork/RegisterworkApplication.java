@@ -8,6 +8,7 @@ public class RegisterworkApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RegisterworkApplication.class, args);
+
 	}
 
 }
